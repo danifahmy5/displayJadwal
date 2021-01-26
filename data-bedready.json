@@ -1,0 +1,379 @@
+{
+  "_embedded": {
+    "bedReadies": [
+      {
+        "id": 1,
+        "paviliun": "Arofah - 1",
+        "kelas": "VIP",
+        "jumlah": 10,
+        "ready": 0,
+        "pavid": 7,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/1"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 2,
+        "paviliun": "Arofah - 2",
+        "kelas": "VIP",
+        "jumlah": 0,
+        "ready": 0,
+        "pavid": 15,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/2"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 3,
+        "paviliun": "Arofah - 3",
+        "kelas": "V VIP",
+        "jumlah": 1,
+        "ready": 0,
+        "pavid": 16,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/3"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 4,
+        "paviliun": "Arofah - 3",
+        "kelas": "VIP",
+        "jumlah": 8,
+        "ready": 0,
+        "pavid": 16,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/4"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 5,
+        "paviliun": "BI'RALI- 1",
+        "kelas": "I",
+        "jumlah": 16,
+        "ready": 3,
+        "pavid": 20,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/5"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 6,
+        "paviliun": "BI'RALI- 1",
+        "kelas": "II",
+        "jumlah": 24,
+        "ready": 4,
+        "pavid": 20,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/6"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 7,
+        "paviliun": "BI'RALI- 1",
+        "kelas": "HCU- Bi'rali",
+        "jumlah": 2,
+        "ready": 2,
+        "pavid": 20,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/7"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 9,
+        "paviliun": "BI'RALI- 2",
+        "kelas": "NEONATUS",
+        "jumlah": 8,
+        "ready": 4,
+        "pavid": 21,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/9"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 10,
+        "paviliun": "BI'RALI- 2",
+        "kelas": "II",
+        "jumlah": 1,
+        "ready": 1,
+        "pavid": 21,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/10"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 11,
+        "paviliun": "BI'RALI- 3",
+        "kelas": "V VIP",
+        "jumlah": 1,
+        "ready": 0,
+        "pavid": 22,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/11"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 12,
+        "paviliun": "BI'RALI- 3",
+        "kelas": "VIP",
+        "jumlah": 4,
+        "ready": 0,
+        "pavid": 22,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/12"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 13,
+        "paviliun": "BI'RALI- 3",
+        "kelas": "I",
+        "jumlah": 2,
+        "ready": 1,
+        "pavid": 22,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/13"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 14,
+        "paviliun": "BI'RALI- 3",
+        "kelas": "II",
+        "jumlah": 6,
+        "ready": -1,
+        "pavid": 22,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/14"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 15,
+        "paviliun": "BI'RALI- 3",
+        "kelas": "III",
+        "jumlah": 6,
+        "ready": -3,
+        "pavid": 22,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/15"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 16,
+        "paviliun": "BI'RALI- 4",
+        "kelas": "V VIP",
+        "jumlah": 1,
+        "ready": 1,
+        "pavid": 23,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/16"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 17,
+        "paviliun": "BI'RALI- 4",
+        "kelas": "VIP",
+        "jumlah": 3,
+        "ready": 1,
+        "pavid": 23,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/17"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 18,
+        "paviliun": "BI'RALI- 4",
+        "kelas": "I",
+        "jumlah": 8,
+        "ready": 5,
+        "pavid": 23,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/18"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 19,
+        "paviliun": "BI'RALI- 4",
+        "kelas": "II",
+        "jumlah": 15,
+        "ready": 11,
+        "pavid": 23,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/19"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 20,
+        "paviliun": "BI'RALI- 4",
+        "kelas": "III",
+        "jumlah": 9,
+        "ready": 6,
+        "pavid": 23,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/20"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 22,
+        "paviliun": "BI'RALI- 4",
+        "kelas": "HCU- Bi'rali",
+        "jumlah": 3,
+        "ready": 1,
+        "pavid": 23,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/22"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 26,
+        "paviliun": "Musdalifah",
+        "kelas": "III",
+        "jumlah": 30,
+        "ready": -1,
+        "pavid": 24,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/26"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 31,
+        "paviliun": "BI'RALI- 2",
+        "kelas": "ICU",
+        "jumlah": 10,
+        "ready": 2,
+        "pavid": 21,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/31"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      },
+      {
+        "id": 32,
+        "paviliun": "MINA",
+        "kelas": "ISO-khusus",
+        "jumlah": 10,
+        "ready": -2,
+        "pavid": 25,
+        "_links": {
+          "self": {
+            "href": "http://36.94.8.228:5000/his/about/bedready/32"
+          },
+          "bedready": {
+            "href": "http://36.94.8.228:5000/his/about/bedready"
+          }
+        }
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "http://36.94.8.228:5000/his/about/bedready"
+    }
+  }
+}

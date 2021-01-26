@@ -1,0 +1,823 @@
+{
+  "_embedded": {
+      "jadwalDokters": [
+          {
+              "id": 188,
+              "kode": 188,
+              "dokter": "Harjanti PS, dr.",
+              "spesialis": "Umum",
+              "hari": "Senin",
+              "buka": "08:00:00",
+              "tutup": "12:00:00",
+              "hr": 1,
+              "dr": 2,
+              "prak": 1,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=2"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/188"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 61,
+              "kode": 61,
+              "dokter": "L. Arthur S., dr. Sp.OG",
+              "spesialis": "Kebidanan dan Kandungan",
+              "hari": "Senin",
+              "buka": "17:00:00",
+              "tutup": "19:00:00",
+              "hr": 1,
+              "dr": 6,
+              "prak": 2,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=6"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/61"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 249,
+              "kode": 249,
+              "dokter": "Akhmad Zainul Arifin, dr. Sp.N, M.Kes",
+              "spesialis": "Syaraf",
+              "hari": "Senin",
+              "buka": "08:00:00",
+              "tutup": "12:00:00",
+              "hr": 1,
+              "dr": 9,
+              "prak": 1,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=9"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/249"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 256,
+              "kode": 256,
+              "dokter": "Akhmad Zainul Arifin, dr. Sp.N, M.Kes",
+              "spesialis": "Syaraf",
+              "hari": "Senin",
+              "buka": "18:00:00",
+              "tutup": "20:00:00",
+              "hr": 1,
+              "dr": 9,
+              "prak": 2,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=9"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/256"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 81,
+              "kode": 81,
+              "dokter": "Sunarto, dr. Sp.S",
+              "spesialis": "Syaraf",
+              "hari": "Senin",
+              "buka": "08:00:00",
+              "tutup": "12:00:00",
+              "hr": 1,
+              "dr": 12,
+              "prak": 1,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=12"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/81"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 20,
+              "kode": 20,
+              "dokter": "Aris Mukti Halim, drg.",
+              "spesialis": "Gigi",
+              "hari": "Senin",
+              "buka": "07:00:00",
+              "tutup": "12:00:00",
+              "hr": 1,
+              "dr": 13,
+              "prak": 1,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=13"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/20"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 32,
+              "kode": 32,
+              "dokter": "Aris Mukti Halim, drg.",
+              "spesialis": "Gigi",
+              "hari": "Senin",
+              "buka": "17:00:00",
+              "tutup": "20:00:00",
+              "hr": 1,
+              "dr": 13,
+              "prak": 2,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=13"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/32"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 175,
+              "kode": 175,
+              "dokter": "Ely Erviani, Amd.Keb",
+              "spesialis": "KIA",
+              "hari": "Senin",
+              "buka": "10:00:00",
+              "tutup": "12:00:00",
+              "hr": 1,
+              "dr": 16,
+              "prak": 1,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=16"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/175"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 146,
+              "kode": 146,
+              "dokter": "G.Ismanu dr. Sp.B",
+              "spesialis": "Bedah",
+              "hari": "Senin",
+              "buka": "15:00:00",
+              "tutup": "17:00:00",
+              "hr": 1,
+              "dr": 33,
+              "prak": 2,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=33"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/146"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 69,
+              "kode": 69,
+              "dokter": "Mutia Hapsari, dr. Sp.M",
+              "spesialis": "Mata",
+              "hari": "Senin",
+              "buka": "17:00:00",
+              "tutup": "19:00:00",
+              "hr": 1,
+              "dr": 34,
+              "prak": 2,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=34"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/69"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 37,
+              "kode": 37,
+              "dokter": "Faesal, dr. Sp.OT",
+              "spesialis": "Orthopaedi / Bedah Tulang",
+              "hari": "Senin",
+              "buka": "18:00:00",
+              "tutup": "20:00:00",
+              "hr": 1,
+              "dr": 38,
+              "prak": 2,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=38"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/37"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 5,
+              "kode": 5,
+              "dokter": "Retno N, dr. Sp.A, M. Biomed",
+              "spesialis": "Anak",
+              "hari": "Senin",
+              "buka": "08:00:00",
+              "tutup": "10:00:00",
+              "hr": 1,
+              "dr": 44,
+              "prak": 1,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=44"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/5"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 108,
+              "kode": 108,
+              "dokter": "Hartatik S.Psi, Psikolog",
+              "spesialis": "Psikologi",
+              "hari": "Senin",
+              "buka": "08:00:00",
+              "tutup": "12:00:00",
+              "hr": 1,
+              "dr": 74,
+              "prak": 1,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=74"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/108"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 93,
+              "kode": 93,
+              "dokter": "M. Thayyib, dr. Sp.PD",
+              "spesialis": "Penyakit Dalam",
+              "hari": "Senin",
+              "buka": "08:00:00",
+              "tutup": "12:00:00",
+              "hr": 1,
+              "dr": 91,
+              "prak": 1,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=91"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/93"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 215,
+              "kode": 215,
+              "dokter": "Citra Ahdi Prasetya, dr.SpOT.",
+              "spesialis": "Orthopaedi / Bedah Tulang",
+              "hari": "Senin",
+              "buka": "08:00:00",
+              "tutup": "12:00:00",
+              "hr": 1,
+              "dr": 103,
+              "prak": 1,
+              "photo": "/9g=",
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=103"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/215"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 1,
+              "kode": 1,
+              "dokter": "Ditta Ika Pra S. W, drg",
+              "spesialis": "Gigi",
+              "hari": "Senin",
+              "buka": "08:00:00",
+              "tutup": "12:00:00",
+              "hr": 1,
+              "dr": 111,
+              "prak": 1,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=111"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/1"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 168,
+              "kode": 168,
+              "dokter": "Doni, dr. Sp.OT",
+              "spesialis": "Orthopaedi / Bedah Tulang",
+              "hari": "Senin",
+              "buka": "15:00:00",
+              "tutup": "17:00:00",
+              "hr": 1,
+              "dr": 201,
+              "prak": 2,
+              "photo": "/9g=",
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=201"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/168"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 114,
+              "kode": 114,
+              "dokter": "Uun Kurniwati Amd. Gizi",
+              "spesialis": "Gizi",
+              "hari": "Senin",
+              "buka": "08:00:00",
+              "tutup": "12:00:00",
+              "hr": 1,
+              "dr": 203,
+              "prak": 1,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=203"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/114"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 53,
+              "kode": 53,
+              "dokter": "Ira Puspita Rinie, dr. Sp.KK",
+              "spesialis": "Kulit & Kelamin",
+              "hari": "Senin",
+              "buka": "15:30:00",
+              "tutup": "17:00:00",
+              "hr": 1,
+              "dr": 210,
+              "prak": 2,
+              "photo": "/9g=",
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=210"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/53"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 41,
+              "kode": 41,
+              "dokter": "Ika  Maret Tania, dr. Sp.OG",
+              "spesialis": "Kebidanan dan Kandungan",
+              "hari": "Senin",
+              "buka": "10:00:00",
+              "tutup": "12:00:00",
+              "hr": 1,
+              "dr": 226,
+              "prak": 1,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=226"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/41"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 63,
+              "kode": 63,
+              "dokter": "Mei Ria Rahayu, dr. Sp.KFR",
+              "spesialis": "Rehab Medik",
+              "hari": "Senin",
+              "buka": "14:00:00",
+              "tutup": "16:00:00",
+              "hr": 1,
+              "dr": 227,
+              "prak": 2,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=227"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/63"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 72,
+              "kode": 72,
+              "dokter": "Netiana, dr. Sp.THT-KL",
+              "spesialis": "T H T-KL",
+              "hari": "Senin",
+              "buka": "15:00:00",
+              "tutup": "17:00:00",
+              "hr": 1,
+              "dr": 232,
+              "prak": 2,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=232"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/72"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 162,
+              "kode": 162,
+              "dokter": "Wildan Firdaus, dr.",
+              "spesialis": "Umum",
+              "hari": "Senin",
+              "buka": "14:00:00",
+              "tutup": "20:00:00",
+              "hr": 1,
+              "dr": 233,
+              "prak": 2,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=233"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/162"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 224,
+              "kode": 224,
+              "dokter": "RSA Fisioterapi",
+              "spesialis": "Fisioterapi",
+              "hari": "Senin",
+              "buka": "08:00:00",
+              "tutup": "12:00:00",
+              "hr": 1,
+              "dr": 238,
+              "prak": 1,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=238"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/224"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 267,
+              "kode": 267,
+              "dokter": "M. Ridwan I, dr. Sp.THT-KL",
+              "spesialis": "T H T-KL",
+              "hari": "Senin",
+              "buka": "08:00:00",
+              "tutup": "12:00:00",
+              "hr": 1,
+              "dr": 243,
+              "prak": 1,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=243"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/267"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 182,
+              "kode": 182,
+              "dokter": "Ahadi, dr. Sp.JP",
+              "spesialis": "Jantung",
+              "hari": "Senin",
+              "buka": "15:00:00",
+              "tutup": "16:30:00",
+              "hr": 1,
+              "dr": 301,
+              "prak": 2,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=301"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/182"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 231,
+              "kode": 231,
+              "dokter": "Paundra Hutama, dr.Sp.B",
+              "spesialis": "Bedah",
+              "hari": "Senin",
+              "buka": "08:00:00",
+              "tutup": "12:00:00",
+              "hr": 1,
+              "dr": 348,
+              "prak": 1,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=348"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/231"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          },
+          {
+              "id": 236,
+              "kode": 236,
+              "dokter": "Sugihantoko,dr.Sp.Pd.",
+              "spesialis": "Penyakit Dalam",
+              "hari": "Senin",
+              "buka": "15:00:00",
+              "tutup": "17:00:00",
+              "hr": 1,
+              "dr": 351,
+              "prak": 2,
+              "photo": null,
+              "_links": {
+                  "self": [
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/hari?hr=1"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/dokter?dr=351"
+                      },
+                      {
+                          "href": "http://36.94.8.228:5000/his/about/jadwaldokter/236"
+                      }
+                  ],
+                  "jadwaldokter": {
+                      "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+                  }
+              }
+          }
+      ]
+  },
+  "_links": {
+      "self": {
+          "href": "http://36.94.8.228:5000/his/about/jadwaldokter"
+      }
+  }
+}
